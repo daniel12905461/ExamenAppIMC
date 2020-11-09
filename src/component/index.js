@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
         color: 'red'
     },
     GreenText: {
-        color: 'blue',
+        color: '#0778bf',
         fontSize: 20,
         fontWeight: "bold"
     },
@@ -81,6 +81,7 @@ const styles = StyleSheet.create({
         marginBottom: 10
     },
     Resul: {
-        marginTop: 30
+        marginTop: 15,
+        marginBottom: 20
     }
 });
